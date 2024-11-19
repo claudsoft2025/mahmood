@@ -1,0 +1,2 @@
+window.$crisp=[];window.CRISP_WEBSITE_ID="0c8869d6-ac1c-42f0-9b88-a41993179e94";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})()
+window.$crisp=[];window.CRISP_WEBSITE_ID="0c8869d6-ac1c-42f0-9b88-a41993179e94";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})()
